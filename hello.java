@@ -8,16 +8,16 @@ Public class HelloWord{
 /*usar prompt do Pc para abrir arquivo: 
 notepad HelloWord.java
 javac .edu/Fatec/*.java
-java edu.fatec.helloword*/
+java edu.fatec.helloword
 
 
-//para as aulas vamos usar pastas criar pelo prompt 
+para as aulas vamos usar pastas criar pelo prompt 
 c:\POO (dentro da pasta medir edu, entrar cd edu)
   alunos 
    edu
     fatec
      Alunos.java(classe)
-     TesteAluno.java(classe)
+     TesteAluno.java(classe)*/
     
 
 
