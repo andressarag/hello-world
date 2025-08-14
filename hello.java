@@ -5,13 +5,13 @@ Public class HelloWord{
   }
 }
 
-usar prompt do Pc para abrir arquivo: 
+/*usar prompt do Pc para abrir arquivo: 
 notepad HelloWord.java
-javac .edu/Fatec/*.Java
-java edu.fatec.helloword
+javac .edu/Fatec/*.java
+java edu.fatec.helloword*/
 
 
-para as aulas vamos usar pastas criar pelo prompt 
+//para as aulas vamos usar pastas criar pelo prompt 
 c:\POO (dentro da pasta medir edu, entrar cd edu)
   alunos 
    edu
